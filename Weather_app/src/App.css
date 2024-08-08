@@ -1,0 +1,99 @@
+/* App.css */
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  }
+  
+  .w-full {
+    width: 100%;
+  }
+  
+  .h-screen {
+    height: 100vh;
+  }
+  
+  .text-white {
+    color: white;
+  }
+  
+  .px-8 {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  
+  .p-3 {
+    padding: 0.75rem;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .justify-between {
+    justify-content: space-between;
+  }
+  
+  .items-center {
+    align-items: center;
+  }
+  
+  .font-bold {
+    font-weight: bold;
+  }
+  
+  .tracking-wide {
+    letter-spacing: 0.05em;
+  }
+  
+  .text-3xl {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+  }
+  
+  .bg-white {
+    background-color: white;
+  }
+  
+  .overflow-hidden {
+    overflow: hidden;
+  }
+  
+  .shadow-2xl {
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  }
+  
+  .rounded {
+    border-radius: 0.25rem;
+  }
+  
+  .p-2 {
+    padding: 0.5rem;
+  }
+  
+  .gap-2 {
+    gap: 0.5rem;
+  }
+  
+  .focus\:outline-none {
+    outline: none;
+  }
+  
+  .w-full {
+    width: 100%;
+  }
+  
+  .text-\[\#212121\] {
+    color: #212121;
+  }
+  
+  .text-lg {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+  }
+  
